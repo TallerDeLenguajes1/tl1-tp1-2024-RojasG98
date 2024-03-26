@@ -10,6 +10,5 @@ int main(){
     printf("\nla dirección de memoria de la variable: %p", &numero);
     printf("\nla dirección de memoria del puntero %p", &punt);
     printf("\nel tamaño de memoria utilizado por la variable %d bytes", sizeof(*punt));
-
     return 0;
 }

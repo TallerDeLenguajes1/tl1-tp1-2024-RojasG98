@@ -12,3 +12,7 @@ Las entradas de este archivo también pueden seguir un patrón coincidente:
 - __#__ es usado para agregar comentarios
 
 Luego dentro del archivo agregamos aquellos archivos que queremos ignorar.
+
+### Desarrollo ejercicio 3g
+
+Los valores del apartado 2 y 3 son iguales porque el puntero se le fue asignada esa direccion de memoria del archivo. La direccion de memoria de la variable puntero es distinta, ya que es una variable distinta a la otra declarada.
